@@ -1,9 +1,9 @@
 # ROAS5400 Student Bundle
 
 This bundle contains:
-- : student starter code (tests + demos + unimplemented )
-- : assignment writeup and compiled 
-- : train/val/test data
+- student starter code (tests + demos + unimplemented adapters)
+- assignment handout `roas5400-doc.pdf`
+- train/val/test data
 
 # Environment Setup
 
