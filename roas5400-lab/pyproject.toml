@@ -23,6 +23,10 @@ dependencies = [
 requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
+[tool.setuptools]
+packages = []
+py-modules = []
+
 [tool.pytest.ini_options]
 log_cli = true
 log_cli_level = "WARNING"
